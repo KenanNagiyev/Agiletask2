@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\bin\Debug\net8.0\Agiletask2first.exe
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\bin\Debug\net8.0\Agiletask2first.deps.json
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\bin\Debug\net8.0\Agiletask2first.runtimeconfig.json
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\bin\Debug\net8.0\Agiletask2first.dll
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\bin\Debug\net8.0\Agiletask2first.pdb
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.AssemblyInfo.cs
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.dll
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\refint\Agiletask2first.dll
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.pdb
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\Agiletask2first.genruntimeconfig.cache
+C:\Users\hp\Desktop\Agiletask2\Agiletask2first\Agiletask2first\obj\Debug\net8.0\ref\Agiletask2first.dll
